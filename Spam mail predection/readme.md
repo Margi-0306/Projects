@@ -1,1 +1,1 @@
-
+Spam mail prediction using machine learning with the logistic regression algorithm involves training a model to classify emails as "spam" or "ham" (non-spam). First, the email data is preprocessed and vectorized, turning text into numerical features. The logistic regression model is trained on labeled data, learning to distinguish spam from ham based on patterns. After training, the model predicts whether new emails are spam or not by calculating probabilities and classifying emails with a threshold.
